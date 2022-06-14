@@ -313,7 +313,7 @@ pTab:AddSlider({
 	Name = "Jump Power",
 	Min = 0,
 	Max = 200,
-	Default = (jump),
+	Default = 70,
 	Color = Color3.fromRGB(255, 100, 0),
 	Increment = 1,
 	ValueName = "", 
