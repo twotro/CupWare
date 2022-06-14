@@ -264,7 +264,7 @@ mTab:AddButton({
             game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("!THXNXFORSUPPORTS","All")
             wait(2)
             game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("!1KFavs","All")
-            wait(2.5)
+            wait(3)
             game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("!11PM","All")
             wait(2)
             game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("!NewUpdate","All")
